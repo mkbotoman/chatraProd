@@ -12,7 +12,7 @@
 		"angular-touch":"~1.4.1",
 		"angular-sanitize":"~1.4.1",
 		"angular-bootstrap":"~1.4.1",
-		"angular-ui-utils":"~1.4.1",
-		"angular-ui-router":"~1.4.1"
+		"angular-ui-utils":null,
+		"angular-ui-router":null
 	}
 }
