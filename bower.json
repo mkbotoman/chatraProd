@@ -3,16 +3,16 @@
 	"version": "0.0.1",
 	"description": "An educational platform designed to motivate the next generation of software engineers",
 	"dependencies": {
-		"bootstrap": "~3",
-		"angular": "~1.3.4",
-		"angular-resource":"~1.4.1",
-		"angular-mocks":"~1.4.1",
-		"angular-cookies":"~1.4.1",
-		"angular-animate": "~1.4.1",
-		"angular-touch":"~1.4.1",
-		"angular-sanitize":"~1.4.1",
-		"angular-bootstrap":"~0.13.0",
-		"angular-ui-utils":"~0.2.3",
-		"angular-ui-router":"~0.2.15"
+		"bootstrap": null,
+		"angular": null,
+		"angular-resource":null,
+		"angular-mocks":null,
+		"angular-cookies":null,
+		"angular-animate": null,
+		"angular-touch":null,
+		"angular-sanitize":null,
+		"angular-bootstrap":null,
+		"angular-ui-utils":null,
+		"angular-ui-router":null
 	}
 }
